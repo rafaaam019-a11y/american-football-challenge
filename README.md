@@ -1,6 +1,3 @@
-
-https://github.com/user-attachments/assets/c3f4ad4c-02e1-436c-b3c6-fb56d8c487a7
-
 # 🏈 American Football Challenge
 
 [![Gameplay](imagens/FutebolAmericano.png)](https://github.com/user-attachments/assets/c3f4ad4c-02e1-436c-b3c6-fb56d8c487a7
