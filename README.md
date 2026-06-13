@@ -1,6 +1,6 @@
 # 🏈 American Football Challenge
 
-![Gameplay](images/FutebolAmericano.png)
+![Gameplay](imagens/FutebolAmericano.png)
 
 ## 📖 Sobre o Projeto
 
